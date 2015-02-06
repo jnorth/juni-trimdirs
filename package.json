@@ -1,6 +1,6 @@
 {
   "name": "juni-trimdirs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Juni plugin that removes any empty directories from the tree.",
   "main": "index.js",
   "author": "Joseph North",
