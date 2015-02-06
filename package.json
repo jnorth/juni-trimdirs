@@ -11,5 +11,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/jnorth/juni-trimdirs"
+  },
+  "dependencies": {
+    "juni": "^0.2.0"
   }
 }

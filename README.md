@@ -9,6 +9,6 @@ var juni = require("juni");
 var trimdirs = require("juni-trimdirs");
 
 new juni.Tree("/my/path")
-  .populate()
+  .pipe(populate())
   .pipe(trimdirs());
 ```
